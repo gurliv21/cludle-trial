@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sigmar-regular {
+  font-family: "Sigmar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.caveat {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 457;
+  font-style: normal;
+}
