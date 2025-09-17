@@ -13,7 +13,7 @@ function HomeScreen() {
       <p className='font-bold sigmar-regular text-center mt-[-20px]'>A daily Dose of mystry Puzzle!!!</p>
       <div className='flex items-center mt-[60px] flex-col gap-4'>
        <button className='bg-[#b31308] border-2 border-black w-[320px] p-1 shadow-[4px_6px_0_#3396D3] active:translate-y-1 active:shadow-[0_2px_0_#1e40af] transition-all  ' onClick={()=>{navigate('/GameScreen')}}>
-        <p className='text-white font-semibold'>Solve</p>
+        <p className='text-white font-semibold'>Solve Mystry</p>
 
       </button>
        <button className='bg-[#ffdea9] border-2 border-black w-[320px] p-1 shadow-xl '>
